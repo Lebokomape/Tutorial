@@ -1,3 +1,3 @@
 #tutorial
 
-practicing git and github
+practicing git and github!
